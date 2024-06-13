@@ -1,1 +1,1 @@
-fastgpt
+infiniflow/ragflow:v0.7.0
